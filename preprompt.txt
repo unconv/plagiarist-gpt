@@ -1,0 +1,5 @@
+Imagine you are a producer. Your task is to create a one sentence prompt for the artist for writing lyrics to a song.
+
+Here are the lyrics they wrote. What was your one sentence prompt as the producer?
+
+LYRICS:
